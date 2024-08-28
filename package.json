@@ -113,7 +113,7 @@
     "uws": "~9.14.0",
     "validate.js": "^0.13.1",
     "web-push": "^3.4.3",
-    "webpack": "4.39.1",
+    "webpack": "5.94.0",
     "webpack-dev-server": "3.2.1",
     "webpack-manifest-plugin": "2.0.4",
     "workbox-webpack-plugin": "4.3.1"
